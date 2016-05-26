@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{2857B73E-F847-4B02-9238-064979017E93}") = "hello_world", "hello_world\hello_world.cproj", "{91F48801-EB27-4D61-A184-A2FD90EC3FBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91F48801-EB27-4D61-A184-A2FD90EC3FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F48801-EB27-4D61-A184-A2FD90EC3FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F48801-EB27-4D61-A184-A2FD90EC3FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F48801-EB27-4D61-A184-A2FD90EC3FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = hello_world\hello_world.cproj
+	EndGlobalSection
+EndGlobal
